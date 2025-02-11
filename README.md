@@ -1,4 +1,4 @@
-# 克喵kemeow / kmfx
+# 克喵Kemeow / kmfx
 
 <!-- 动态打字效果 -->
 <h1 align="center">
@@ -64,7 +64,7 @@
 </a>
 
 - 隶属组织 [克喵分享的频道](https://t.me/kemiaofx_me)
-- Casual chatting in TG Group ***克喵分享的群组(https://t.me/kemiao_me）***
+- Casual chatting in TG Group [***克喵分享的群组***]((https://t.me/kemiao_me）
 
 ## Recent Activities
 
