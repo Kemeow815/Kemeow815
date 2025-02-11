@@ -69,3 +69,22 @@
 ## Recent Activities
 
 - **2025.02 - Present**: Developing [a new blog](https://github.com/kmfx/blog-v3) with Nuxt Content
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmfx&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmfx&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmfx&theme=github" />
+  </a>
+</div>
+
+<div align="center">
+  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
+</div>
+
+
+<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangly1024&show_icons=true&theme=ayu-mirage) -->
