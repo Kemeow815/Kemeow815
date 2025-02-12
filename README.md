@@ -2,21 +2,21 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog1.kemiaofx.cn/">
+  <a href="https://boke.kmblog.icu/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=致力于分享生活和资源.;console.log(%22Hello%EF%BC%8Ceveryone%22)">
   </a>
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://image.kemiaofx.cn/gif/Knock-Code.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://image.kmblog.icu/gif/Knock-Code.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog1.kemiaofx.cn/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://boke.kmblog.icu/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://t.me/KemiaoJun"><img src="https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-blue"></a>&emsp;
   <a href="https://space.bilibili.com/396923563"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="mailto:kemiaofx@163.com"><img src="https://img.shields.io/badge/Mail-%E9%82%AE%E7%AE%B1-c14438"></a>&emsp;
+  <a href="mailto:kemiao@kmblog.icu"><img src="https://img.shields.io/badge/Mail-%E9%82%AE%E7%AE%B1-c14438"></a>&emsp;
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
@@ -85,6 +85,3 @@
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
 </div>
-
-
-<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangly1024&show_icons=true&theme=ayu-mirage) -->
