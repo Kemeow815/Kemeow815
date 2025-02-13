@@ -1,4 +1,4 @@
-# 克喵Kemeow / kmfx
+# 克喵Kemeow / Kemeow815
 
 <!-- 动态打字效果 -->
 <h1 align="center">
@@ -55,12 +55,12 @@
 <div align="center"><img src="https://image.kemiaofx.cn/img/personal-homepage-banner.jpg" /></div>
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=kmfx alt=kmfx /> </p>
-<a href="https://github.com/kmfx">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmfx&show_icons=true&include_all_commits=true" />
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Kemeow815 alt=Kemeow815 /> </p>
+<a href="https://github.com/Kemeow815">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kemeow815&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/kmfx">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmfx&layout=compact" />
+<a href="https://github.com/Kemeow815">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemeow815&layout=compact" />
 </a>
 
 - 隶属组织 [克喵分享的频道](https://t.me/kemiaofx_me)
@@ -68,17 +68,17 @@
 
 ## Recent Activities
 
-- **2025.02 - Present**: Developing [a new blog](https://github.com/kmfx/blog-v3) with Nuxt Content
+- **2025.02 - Present**: Developing [a new blog](https://github.com/Kemeow815/blog-v3) with Nuxt Content
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmfx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kemeow815&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmfx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kemeow815&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmfx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kemeow815&theme=github" />
   </a>
 </div>
 
