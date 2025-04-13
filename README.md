@@ -1,4 +1,4 @@
-### **HeLLo, I'm 克喵爱吃卤面！** 👋
+### <div style="text-align:center">**HeLLo, I'm 克喵爱吃卤面！** 👋</div>
 
 <picture>
   <source
