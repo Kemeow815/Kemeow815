@@ -39,6 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137332.jpg" width="40%" alt="支付宝收款码" />
 </div>
 
+### Coding time statistics (not accurate)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32375%26project%3D%26in=0)](https://codetime.dev)
+
 <!--
 **LanYunDev/LanYunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
