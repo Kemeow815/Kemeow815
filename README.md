@@ -35,11 +35,16 @@
 </div>
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137037.jpg" width="45%" alt="微信赞赏码" />
-  <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137332.jpg" width="40%" alt="支付宝收款码" />
+  <img src="https://s2.loli.net/2025/04/13/HQ4lbFfJkpU2R9V.jpg" width="45%" alt="微信赞赏码" />
+  <img src="https://s2.loli.net/2025/04/13/HYrnNFOKDZPSv4p.jpg" width="45%" alt="支付宝收款码" />
 </div>
 
-### Coding time statistics (not accurate)
+<p align="center">打赏可扫</p>
+
+<p align="center">爱发电主页: https://afdian.com/a/kemiaofx_me </p>
+
+
+### Coding time statistics
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32375%26project%3D%26in=0)](https://codetime.dev)
 
 <!--
