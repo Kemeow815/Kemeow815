@@ -1,4 +1,4 @@
-### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20KeMiao&font=Doto" /> 👋
+### **HeLLo, I'm 克喵爱吃卤面！** 👋
 
 <picture>
   <source
