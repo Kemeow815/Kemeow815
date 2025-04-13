@@ -1,7 +1,22 @@
-### Hi，我是克喵爱吃卤面
+### <img width="230" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20%E5%85%8B%E5%96%B5%E7%88%B1%E5%90%83%E5%8D%A4%E9%9D%A2&font=Doto" /> 👋
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Kemeow815&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Kemeow815&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kemeow815&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    align="right" />
+</picture>
 
 一名普通的大学生，电气工程自动化专业，致力于分享资源和生活~
 出于自学和爱好，分享资源和生活，我的期望是按自己喜欢研究一些有趣的东西，欢迎邮件或留言与我交流。
+
+- Read my [Blog](https://issue.kemiaosw.top/) to learn more about me
+- Talk with me by [Email](mailto:kemiaofx@163.com) or [Telegram](https://t.me/KemiaoJun)
+- Follow me on [Twitter](https://twitter.com/kemiaosw) [bilibili](https://space.bilibili.com/3546643173477234) or [Telegram channel](https://t.me/kemiao_me)
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -17,6 +32,11 @@
 
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
+</div>
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137037.jpg" width="45%" alt="微信赞赏码" />
+  <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202502232137332.jpg" width="40%" alt="支付宝收款码" />
 </div>
 
 <!--
