@@ -8,6 +8,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-KemiaoJun-2ba2de?style=flat-square)](https://t.me/KemiaoJun)
 
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<br>
 
 <picture>
   <source
@@ -70,18 +73,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kemeow815&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemeow815&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-
-<!-- 最近博客动态 -->
-<table align="center" >
-<tr>
-<td valign="top">
-
-### 🤹‍♀️ <a href="https://mublog.kemeow.top/" target="_blank">Recent Blog</a>
-
-</td>
-<td valign="top">
-
-</table>
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Kemeow815&theme=xcode" /></div>
