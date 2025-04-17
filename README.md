@@ -1,7 +1,5 @@
 ### <div style="text-align:center">**HeLLo, I'm 克喵爱吃卤面！** 👋</div>
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Kemeow815&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=%Kemeow815.visitor-badge)
 
 [![blog](https://img.shields.io/badge/Home-kemiao.online-008972?style=flat-square)](https://www.kemiao.online)
