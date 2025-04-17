@@ -82,10 +82,6 @@
 
 ### 🤹‍♀️ <a href="https://mublog.kemeow.top/" target="_blank">Recent Blog</a>
 
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-
 </td>
 <td valign="top">
 
