@@ -42,6 +42,24 @@
   </a>
 </div>
 
+<details>
+  <summary>Coding Statistics</summary>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Kemeow815&show_icons=true&hide_border=true&show=reviews&rank_icon=percentile&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kemeow815&show_icons=true&hide_border=true&show=reviews&rank_icon=percentile" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://wakatime.com/share/@Kemeow815/18ebe1f7-2f11-47a1-ae02-e3f3dd5b09c1.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://wakatime.com/share/@Kemeow815/ca79dd6b-465b-482c-a90e-fc62b7c501fa.svg" />
+  </picture>
+</details>
+
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
 </div>
