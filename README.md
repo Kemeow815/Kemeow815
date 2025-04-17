@@ -61,10 +61,6 @@
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
-<br>
-
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Kemeow815&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
@@ -87,30 +83,6 @@
 
 </table>
 
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 March 2025 - To: 14 April 2025
-
-Total Time: 36 hrs 59 mins
-
-Vue.js        19 hrs 39 mins  █████████████▒░░░░░░░░░░░   52.98 %
-TypeScript    7 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Go            4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Python        1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-JSON          1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-```
-
-<!--END_SECTION:waka-->
-
-</tr>
-</table>
-
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Kemeow815&theme=xcode" /></div>
 
@@ -126,7 +98,7 @@ JSON          1 hr 7 mins     ▓░░░░░░░░░░░░░░░�
 
 <!-- BiliBili数据 -->
 <div align="center">
-  <a href="https://space.bilibili.com/3546643173477243"><img src="https://stats.justsong.cn/api/bilibili/?id=3546643173477243"/></a>
+  <a href="https://space.bilibili.com/3546643173477234"><img src="https://stats.justsong.cn/api/bilibili/?id=3546643173477234"/></a>
 
 ### Coding time statistics
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32375%26project%3D%26in=0)](https://codetime.dev)
