@@ -104,13 +104,13 @@
 ### 🚀 我的github活动 
 ---
 <p align="center">
-  <a href="https://blog.liushen.fun">
+  <a href="https://blog-v3.kemeow.top">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kemeow815&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://blog.qyliu.top">
+  <a href="https://kemiao.online">
     <img src="https://github-profile-trophy.vercel.app/?username=Kemeow815&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </a>
 </p>
