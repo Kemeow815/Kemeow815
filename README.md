@@ -23,15 +23,15 @@
 <a href="https://www.github.com/Kemeow815">
   <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
 </a>
-<a href="https://mm.liushen.fun">
-  <img align="center" src="./static/icon/memos.svg" alt="提笔摘星" width="22px">
+<a href="https://memos.kemiaosw.top/">
+  <img align="center" src="./static/icon/memos.svg" alt="说说" width="22px">
 </a>
 
 ### 👋 个人简介 
 ---
 [个人主页](https://kemiao.online) | [博客站点](https://blog-v3.kemeow.top)
 
-大家好！这里是克喵爱吃卤面的github主页。为什么说，叫清羽飞扬呢？因为“清扬”是我的名字，而“飞扬”代表着自由和轻盈，这与我的性格不谋而合。我是一个充满热情、富有同情心的人，喜欢与人交流，乐于分享我的想法和见解。在这里，我会分享我的一些开源代码和项目。希望我能给大家带来一些启发和乐趣。
+大家好！这里是克喵爱吃卤面的github主页。致力于分享资源、生活日记和踩坑教程，代码水准一般，自动化专业大二学生，现于南京就读，普通的大学牛马。
 
 <img align='right' src="./static/avatar.png" width="150" alt="person">
 
@@ -40,37 +40,28 @@
 ---
 
 - 🖥 **个性:** 开朗活泼，热爱学习，勤奋工作
-- 🖥 **技能:** 计算机视觉，深度学习，人工智能
+- 🖥 **技能:** 自动化技术与应用
 - 🖥 **个人信息:**
-    - 🧑 **姓名:** 柳清扬
-    - 🏫 **学校:** 武汉理工大学，[官方网站](https://www.whut.edu.cn/)
-    - 🏛️ **年级:** 大三
+    - 🧑 **姓名:** mcy
+    - 🏫 **学校:** 南京工业职业技术大学，[官方网站](https://www.niit.edu.cn/)
+    - 🏛️ **年级:** 大二
     - 👷 **职业:** 学生
-- 🖥 **兴趣:** 计算机，篮球，电子产品，数码产品，小米粉丝
-- 🖥 **梦想:** 和父母一起环游世界
+- 🖥 **兴趣:** 计算机，单机游戏，电子产品，数码产品，资源分享
+- 🖥 **梦想:** 咸鱼算并不算？
 
 ### 📲 网站运营
 
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
-| 🏠 Home      | 个人主页         | [https://www.liushen.fun/](https://www.liushen.fun/)  |
-| 🪄 Blog      | 个人博客         | [https://blog.liushen.fun/](https://blog.liushen.fun/) |
-| 📷 Gallery   | 生活相册         | [https://xc.liushen.fun/](https://xc.liushen.fun/) |
-| 🚀 Planet    | 提笔摘星         | [https://mm.liushen.fun/](https://mm.liushen.fun/) |
-| 🔥 Hot List  | 今日热榜         | [https://hot.liushen.fun/](https://hot.liushen.fun/) |
-| 📊 Statistics| 访客统计         | [https://um.liushen.fun/](https://um.liushen.fun/) |
-| 💾 Resources | 资源分享         | [https://pan.liushen.fun/](https://pan.liushen.fun/) |
-| 🖼️ Image Bed | 自建图床         | [https://pic.qyliu.top/](https://pic.qyliu.top/) |
+| 🏠 Home      | 个人主页         | [https://kemiao.online/](https://kemiao.online/)  |
+| 🪄 Blog      | 个人博客         | [https://blog-v3.kemeow.top/](https://blog-v3.kemeow.top/) |
+| 🚀 Speak    | 说说         | [https://memos.kemiaosw.top/](https://memos.kemiaosw.top/) |
+| 🔥 Hot List  | 今日热榜         | [https://dailyhot.kemeow.cn/](https://dailyhot.kemeow.cn/) |
+| 💾 Resources | 资源分享         | [https://github,com/Kemeow815/kemiaofx](https://github,com/Kemeow815/kemiaofx) |
 | 🎨 Design    | 封面设计         | [https://cover.qyliu.top/](https://cover.qyliu.top/) |
-| 🖥️ Detection | 站点检测         | [https://listen.liushen.fun/](https://listen.liushen.fun/) |
-| 📈 Busuanzi  | 不蒜子           | [https://busuanzi.qyliu.top/](https://busuanzi.qyliu.top/) |
-| 🧠 Mind Map  | 思维导图         | [https://mindmap.qyliu.top/](https://mindmap.qyliu.top/) |
-| 📝 Whiteboard| 灵感白板         | [https://draw.qyliu.top/](https://draw.qyliu.top/) |
-| ☁️ Tencent   | 腾讯开发者    | [https://cloud.tencent.com/](https://cloud.tencent.com/developer/user/11136875) |
-| 💻 Gist      | 代码片段         | [https://gist.liushen.fun/](https://gist.liushen.fun/) |
-| 📝 Share     | 文本中转         | [https://share.liushen.fun/](https://share.liushen.fun/) |
-| 💌 Paste     | 在线粘贴         | [https://paste.430070.xyz/](https://paste.430070.xyz/) |
-
+| 🖥️ Detection | 站点检测         | [https://montor.kemeow.cn/](https://montor.kemeow.cn/) |
+| 🎦 Video | 影视网站 | [https://tv.kemeow.top](https://tv.kemeow.top) |
+| 🎵 Music | 音乐 | [https://music.kemiao.online ](https://music.kemiao.online)|
 ### 🌟 性格方向 
 
 <img src="./static/character.svg" align='right' height="200">
