@@ -11,6 +11,9 @@
 <a href="https://blog-v3.kemeow.top">
   <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
 </a>
+<a href="https://t.me/KemiaoJun">
+  <img align="center" alt="电报账号" width="22px" src="./static/icon/telegram.svg" />
+</a>
 <!-- <a href="https://xc.liushen.fun">
   <img align="center" alt="柳神的个人相册" width="22px" src="./static/icon/gallery.svg" />
 </a> -->
