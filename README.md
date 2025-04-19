@@ -74,6 +74,18 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemeow815&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
+<div align="center">
+
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemeow815&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+</div>
+
 # 🤝 Social
 
 <!-- BiliBili数据 -->
