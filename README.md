@@ -6,7 +6,7 @@
   <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
 </a>
   <a href="mailto:kemiaofx@163.com">
-  <img align="center" alt="柳神的邮箱" width="22px" src="./static/icon/email.svg" />
+  <img align="center" alt="克喵的邮箱" width="22px" src="./static/icon/email.svg" />
 </a>
 <a href="https://blog-v3.kemeow.top">
   <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
