@@ -115,6 +115,30 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://blog-v3.kemeow.top">
+    <img src="https://raw.githubusercontent.com/Kemeow815/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Activity">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://blog-v3.kemeow.top">
+    <img src="https://raw.githubusercontent.com/Kemeow815/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Activity">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kemiao.online">
+    <img src="https://raw.githubusercontent.com/Kemeow815/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kemiao.online">
+    <img src="https://raw.githubusercontent.com/Kemeow815/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  </a>
+</p>
+
 ### 🤝 Social
 <!-- BiliBili数据 -->
 <div align="center">
