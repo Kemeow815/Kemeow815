@@ -126,3 +126,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Kemeow815&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </a>
 </p>
+
+### 🤝 Social
+<!-- BiliBili数据 -->
+<div align="center">
+  <a href="https://space.bilibili.com/3546643173477234"><img src="https://stats.justsong.cn/api/bilibili/?id=3546643173477234"/></a>
+
+### Coding time statistics
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32375%26project%3D%26in=0)](https://codetime.dev)
