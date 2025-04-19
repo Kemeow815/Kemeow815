@@ -26,9 +26,9 @@
 
 ### 👋 个人简介 
 ---
-[个人主页](https://www.liushen.fun) | [博客站点](https://blog.liushen.fun)
+[个人主页](https://kemiao.online) | [博客站点](https://blog-v3.kemeow.top)
 
-大家好！这里是清羽飞扬的github主页。为什么说，叫清羽飞扬呢？因为“清扬”是我的名字，而“飞扬”代表着自由和轻盈，这与我的性格不谋而合。我是一个充满热情、富有同情心的人，喜欢与人交流，乐于分享我的想法和见解。在这里，我会分享我的一些开源代码和项目。希望我能给大家带来一些启发和乐趣。
+大家好！这里是克喵爱吃卤面的github主页。为什么说，叫清羽飞扬呢？因为“清扬”是我的名字，而“飞扬”代表着自由和轻盈，这与我的性格不谋而合。我是一个充满热情、富有同情心的人，喜欢与人交流，乐于分享我的想法和见解。在这里，我会分享我的一些开源代码和项目。希望我能给大家带来一些启发和乐趣。
 
 <img align='right' src="./static/avatar.png" width="150" alt="person">
 
@@ -117,12 +117,12 @@
 ---
 <p align="center">
   <a href="https://blog.liushen.fun">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=willow-god&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kemeow815&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
 
 <p align="center">
   <a href="https://blog.qyliu.top">
-    <img src="https://github-profile-trophy.vercel.app/?username=willow-god&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kemeow815&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </a>
 </p>
