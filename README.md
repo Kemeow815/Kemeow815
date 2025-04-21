@@ -57,7 +57,7 @@
 | 🪄 Blog      | 个人博客         | [https://blog-v3.kemeow.top/](https://blog-v3.kemeow.top/) |
 | 🚀 Speak    | 说说         | [https://memos.kemiaosw.top/](https://memos.kemiaosw.top/) |
 | 🔥 Hot List  | 今日热榜         | [https://dailyhot.kemeow.cn/](https://dailyhot.kemeow.cn/) |
-| 💾 Resources | 资源分享         | [https://github,com/Kemeow815/kemiaofx](https://github,com/Kemeow815/kemiaofx) |
+| 💾 Resources | 资源分享         | [https://github.com/Kemeow815/kemiaofx](https://github,com/Kemeow815/kemiaofx) |
 | 🎨 Design    | 封面设计         | [https://cover.qyliu.top/](https://cover.qyliu.top/) |
 | 🖥️ Detection | 站点检测         | [https://montor.kemeow.cn/](https://montor.kemeow.cn/) |
 | 🎦 Video | 影视网站 | [https://tv.kemeow.top](https://tv.kemeow.top) |
