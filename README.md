@@ -27,8 +27,6 @@
   <img align="center" src="./static/icon/memos.svg" alt="说说" width="22px">
 </a>
 
-## Hello,every one
-
 <a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
 - 🔭 I’m currently studying in Nanjing
@@ -44,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+LIUCY+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+KeMiao+obsessed+with+programming!" />
 </p>
 
 ### 👋 个人简介 
