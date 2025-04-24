@@ -2,8 +2,6 @@
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
 
-<a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-
 <a href="https://kemiao.online/">
   <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
 </a>
@@ -30,6 +28,8 @@
 </a>
 
 ## Hello,every one
+
+<a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
 - 🔭 I’m currently studying in Nanjing
 - 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
