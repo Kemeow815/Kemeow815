@@ -125,7 +125,7 @@
 ---
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Kemeow815&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemeow815&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/> 
 
-![GitHub 连续打卡](https://streak-stats.demolab.com/?use=Kemeow815)                           ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=Kemeow815)
+![GitHub 连续打卡](https://streak-stats.demolab.com/demo/?user=Kemeow815&theme=transparent&hide_border=true&border_radius=4.5&locale=zh_Hans&short_numbers=true&date_format=[Y.]n.j&mode=daily&exclude_days=&sections=total,current,longest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)                           ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=Kemeow815)
 
 
 ### 我的成就 🏅
