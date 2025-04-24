@@ -4,25 +4,6 @@
 
 <a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
----
-
-- 🔭 I’m currently studying in Nanjing
-- 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
-- 💬 You can ask me some questions about resources。
-- 📫 How to contact my email or official account: kemiaofx@163.com
-- 🍉 Active Community：[BLOG](https://blog-v3.kemeow.top) | [Telegram](https://t.me/KemiaoJun) |  [X](https://x.com/kemiaosw/) 
-你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/Kemeow815/count.svg) 个访客，谢谢你的访问！
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20LIUCY%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+LIUCY+obsessed+with+programming!" />
-</p>
-
-
-
 <a href="https://kemiao.online/">
   <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
 </a>
@@ -47,6 +28,21 @@
 <a href="https://memos.kemiaosw.top/">
   <img align="center" src="./static/icon/memos.svg" alt="说说" width="22px">
 </a>
+
+- 🔭 I’m currently studying in Nanjing
+- 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
+- 💬 You can ask me some questions about resources。
+- 📫 How to contact my email or official account: kemiaofx@163.com
+- 🍉 Active Community：[BLOG](https://blog-v3.kemeow.top) | [Telegram](https://t.me/KemiaoJun) |  [X](https://x.com/kemiaosw/) 
+你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/Kemeow815/count.svg) 个访客，谢谢你的访问！
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20LIUCY%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+LIUCY+obsessed+with+programming!" />
+</p>
 
 ### 👋 个人简介 
 ---
