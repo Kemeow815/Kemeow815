@@ -84,6 +84,7 @@
 | 🖥️ Detection | 站点检测         | [https://montor.kemeow.cn/](https://montor.kemeow.cn/) |
 | 🎦 Video | 影视网站 | [https://tv.kemeow.top](https://tv.kemeow.top) |
 | 🎵 Music | 音乐 | [https://music.kemiao.online ](https://music.kemiao.online)|
+| 微信公众号 | 公众号 | [https://wechat.kemeow.top](https://wechat.kemeow.top) |
 ### 🌟 性格方向 
 
 <img src="./static/character.svg" align='right' height="200">
