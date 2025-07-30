@@ -39,8 +39,6 @@
 - 📫 How to contact my email or official account: kemiaofx@163.com
 - 🍉 Active Community：[BLOG](https://blog-v3.kemeow.top) | [Telegram](https://t.me/KemiaoJun) |  [X](https://x.com/kemiaosw/) 
 
-你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/Kemeow815/count.svg) 个访客，谢谢你的访问！
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20KeMiao%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
